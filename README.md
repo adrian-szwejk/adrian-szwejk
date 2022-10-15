@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrian-szwejk
-- 👀 I’m interested in learning new ways to code, rock climbing, disc golf, and slacklining.
+- 👀 I’m interested in rock climbing, disc golf, slacklining, and learning new ways to code.
 - 🌱 I’m currently learning mobile development.
 - 💞️ I’m looking to collaborate on flutter or javascript projects.
 - 📫 How to reach me through linkedIn (https://www.linkedin.com/in/adrian-szwejkowski-3202a81ab/).
