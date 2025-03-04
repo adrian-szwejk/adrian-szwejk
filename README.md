@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adrian-szwejk
 - 👀 I’m interested in rock climbing, disc golf, slacklining, and learning new ways to code.
-- 🌱 I’m currently learning mobile development in my free time & networking, systems programming, & cybersecurity at UIUC.
-- 💞️ I’m looking to collaborate on Flutter, JS, C/C++, and Rust projects.
+- 🌱 I’m currently learning about autonomous systems, distributed systems, & computer security at UIUC.
 - 📫 Reach me through linkedIn [https://www.linkedin.com/in/adrian-szwejk/](https://www.linkedin.com/in/adrian-szwejk/)
 
 <!---
